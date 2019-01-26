@@ -1,10 +1,10 @@
-{{ Building Data Intensive Applications }}
+Building Data Intensive Applications
 =========================
 
-* Speaker   : {{ Julio Faerman }}
-* Available : {{ Anytime }}
-* Length    : {{ Building Data Intensive Applications }}
-* Language  : {{ English (a não ser que prefiram português) }}
+* Speaker   : Julio Faerman
+* Available : Anytime
+* Length    : Building Data Intensive Applications
+* Language  : English (a não ser que prefiram português)
 
 Description
 -----------
@@ -27,4 +27,4 @@ Links
 Extra Information
 -----------------
 
-My talk last edition: https://www.youtube.com/watch?v=PGjvz19NeSg&index=11&list=PLTlIsr2wnuwWWhWkAxwzm-SFsTqN-_SNp&t=0s
+My talk last time: https://www.youtube.com/watch?v=PGjvz19NeSg&index=11&list=PLTlIsr2wnuwWWhWkAxwzm-SFsTqN-_SNp&t=0s
